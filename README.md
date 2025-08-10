@@ -3,7 +3,7 @@ just testing github
 # --- GitHub Actions Workflow for Node.js ---
 # مسیر: .github/workflows/ci.yml
 
-name: CI
+name: C
 
 on:
   push:
